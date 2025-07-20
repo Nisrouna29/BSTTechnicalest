@@ -386,6 +386,7 @@ footer .contact-us .newsletter .subscribe button {
   font-family: "Oswald", sans-serif;
   color: white;
   text-align: center;
+  cursor: pointer;
 }
 
 footer .contact-us .cordonnee {
